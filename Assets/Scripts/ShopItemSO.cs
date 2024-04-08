@@ -13,4 +13,5 @@ public class ShopItemSO : ScriptableObject
     //     get { return image; }
     //     set { image = value; }
     // }
+    //test
 }
