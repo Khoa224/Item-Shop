@@ -791,6 +791,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0.60001
       objectReference: {fileID: 0}
+    - target: {fileID: 6544527044496703454, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f2654fa4dc62fe44cb8655b045808a20, type: 3}
     - target: {fileID: 6975242442025340894, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -1240,6 +1244,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 15, y: 10}
   m_SizeDelta: {x: 15, y: 10}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &117363663
@@ -1796,6 +1801,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0.60001
       objectReference: {fileID: 0}
+    - target: {fileID: 6544527044496703454, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 981237fc2916bc941bf50a3bec9baa63, type: 3}
     - target: {fileID: 6975242442025340894, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -2995,7 +3004,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &365540935
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4195,6 +4204,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 15, y: 10}
+  m_SizeDelta: {x: 15, y: 10}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &486883450
 MonoBehaviour:
@@ -4394,7 +4404,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &493057425
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7500,6 +7510,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 15, y: 10}
+  m_SizeDelta: {x: 15, y: 10}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &681895969
 MonoBehaviour:
@@ -8202,6 +8213,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 15, y: 10}
   m_AnchoredPosition: {x: 0, y: -23.8389}
   m_SizeDelta: {x: 1415, y: 100}
   m_Pivot: {x: 0, y: 0.5}
@@ -8936,6 +8949,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
+  m_IsActive: 0
 --- !u!224 &808488199
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9264,7 +9278,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &845490511
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12509,6 +12523,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0.60001
       objectReference: {fileID: 0}
+    - target: {fileID: 6544527044496703454, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: db2ee371cd92bdc49b3cc82f8fe5f4b6, type: 3}
     - target: {fileID: 6975242442025340894, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -14782,6 +14800,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0.60001
       objectReference: {fileID: 0}
+    - target: {fileID: 6544527044496703454, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1ff6084d03933c642b8b02b1e21d17b2, type: 3}
     - target: {fileID: 6975242442025340894, guid: da0417896864fe945bcf0a44feacc14a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -16089,6 +16111,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 15, y: 10}
   m_SizeDelta: {x: 15, y: 10}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!114 &1737355613
@@ -18553,7 +18576,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1932848005
 RectTransform:
   m_ObjectHideFlags: 0
